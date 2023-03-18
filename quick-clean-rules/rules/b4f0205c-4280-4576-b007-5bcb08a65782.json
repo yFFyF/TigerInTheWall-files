@@ -1,6 +1,9 @@
 {
   "rules": [
-    "1_share/com.uzero.baimiao/com.uzero.baimiao.ui.RecognizeResultTranslate",
-    "1_share/com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity/send"
+    "4_text/com.microsoft.office.officehubrow/com.microsoft.office.officesuite.CreateNotesAliasActivity",
+    "4_text/com.microsoft.office.outlook/com.microsoft.emmx.webview.search.SearchBridgeActivity",
+    "4_text/com.tugoubutu.liulanqi/cn.mujiankeji.ativitity.MainActivity",
+    "4_text/com.qihoo.contents/com.qihoo.browser.activity.SplashActivity",
+    "4_text/com.mmbox.xbrowser/com.mmbox.xbrowser.SearchInBrowserActivity"
   ]
 }
