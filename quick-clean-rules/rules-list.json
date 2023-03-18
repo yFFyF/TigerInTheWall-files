@@ -19,13 +19,13 @@
   {
     "rule_info": {
       "default": {
-        "rule_name": "Xiaomi built-in Apps",
-        "rule_desc": "Clean up Xiaomi's built-in app intent (such as the huge Mi browser in OpenWith sheet) to prevent it from occupying the intent panel."
+        "rule_name": "4_text",
+        "rule_desc": "Press Text"
       },
       "i18n": [{
         "rule_lang": "zh-CN",
-        "rule_name": "测试",
-        "rule_desc": "测试2"
+        "rule_name": "4_text",
+        "rule_desc": "长按文本"
       }]
     },
     "uploadTime": 1661787880,
